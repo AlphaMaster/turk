@@ -1,0 +1,42 @@
+```xml
+<myxml>
+
+<item>
+<title>Kanal D</title>
+<link>rtmp://dcdn.motiwe.com:80/dogantv/kanald.stream</link>
+<thumbnail>Channel Logo</thumbnail>
+</item>
+
+
+<item>
+<title>Show TV</title>
+<link>rtmp://yayin.canlitv.com/live/showtv</link>
+<thumbnail>Channel Logo</thumbnail>
+</item>
+
+<item>
+<title>TEST</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://edge03-08.az.myvideo.az/dvrh264/ntvspor/mp4:ntvspor swfUrl=http://www.myvideo.az/dvr/dvrManual4.swf?v=1.91 live=1 pageUrl=http://www.myvideo.az/?act=dvr&chan=ntvspor</link>
+<thumbnail>Channel Logo</thumbnail>
+</item>
+
+<item>
+<title>Channel Name 2</title>
+<link>Live Steam URL</link>
+<thumbnail>Channel Logo</thumbnail>
+</item>
+
+<item>
+<title>Channel Name 2</title>
+<link>Live Steam URL</link>
+<thumbnail>Channel Logo</thumbnail>
+</item>
+
+<item>
+<title>Channel Name 2</title>
+<link>Live Steam URL</link>
+<thumbnail>Channel Logo</thumbnail>
+</item>
+
+</myxml>
+```
